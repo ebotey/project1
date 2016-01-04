@@ -1,1 +1,1 @@
-Feature 1 --> Ready to production
+Feature 1 --> Ready to production + Hotfix
